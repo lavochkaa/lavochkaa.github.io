@@ -1,6 +1,6 @@
 ---
 title: "SysExplorer: a read-only window into iOS internals"
-date: 2026-07-22 12:00:00 +0000
+date: 2026-07-22 00:01:00 +0300
 categories: [iOS, Internals]
 tags: [ios, trollstore, mach-o, iokit, xpc, reverse-engineering, arm64]
 image:
