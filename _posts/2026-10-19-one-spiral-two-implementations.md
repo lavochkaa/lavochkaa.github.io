@@ -1,6 +1,6 @@
 ---
 title: "One spiral, two implementations: keeping CPU picking in sync with a GLSL shader"
-date: 2026-10-20 00:05:00 +0300
+date: 2026-10-19 12:00:00 +0300
 categories: [Projects, Graphics]
 tags: [threejs, webgl, glsl, shaders, visualization, github, bloom]
 image:
